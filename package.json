@@ -1,0 +1,24 @@
+{
+  "name": "learnrestapi",
+  "version": "1.0.0",
+  "description": "Latihan Membuat Rest API Node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hilmyoctaviano/restapinodejs.git"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "nodejs"
+  ],
+  "author": "hilmymuhammad95",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hilmyoctaviano/restapinodejs/issues"
+  },
+  "homepage": "https://github.com/hilmyoctaviano/restapinodejs#readme"
+}
